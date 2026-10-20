@@ -6,6 +6,20 @@ Barran Dodger Legal & Ethical Trust Fund — Public documentary archive of gover
   <img src="./public/brand/icon.png" alt="Barran Dodger Justice Portal Icon" width="100" />
 </p>
 
+Featured First-Person Testimony
+
+When the Record Refused to Disappear
+
+A Prophetic Testimony of Faith, Endurance, Documentary Evidence and the Unfinished Search for Justice
+
+This first-person testimony by Dr Richard William McLean brings together his account of faith, personal endurance, dealings with institutions, and continuing search for justice. It is published for public examination alongside the documentary archive.
+
+Read the complete testimony (PDF)
+
+Readers are invited to examine the linked primary-source documents and consider their context. The testimony records the author’s perspective; publication does not constitute a judicial finding or independently establish the truth of every allegation.
+
+Cryptographic hashes and timestamp proofs, where provided, should be checked against the exact file version they identify.
+
 ## Architecture
 
 The Barran Dodger Justice Portal is a web application designed to productize Dr. McLean's forensic archive.
