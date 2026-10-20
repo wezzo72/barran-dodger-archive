@@ -1,4 +1,4 @@
-# Barran Dodger Justice Portal
+Barran Dodger Legal & Ethical Trust Fund — Public documentary archive of government records, personal testimony, and materials concerning alleged institutional wrongdoing. Documents are published for independent examination; inclusion does not itself establish that an allegation has been proven.# Barran Dodger Justice Portal
 
 ![Barran Dodger Justice Portal Banner](./public/brand/banner.png)
 
